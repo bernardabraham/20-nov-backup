@@ -1,0 +1,15 @@
+1)build a simple frontend on react with a grid layout, css styles, a pagination table in the middle, add redux.
+Login>Views>Notes/video stream/google maps
+2)node.js , an API, postgres&SQL
+3)add unit tests, integration tests, acceptance tests, selenium & cucumber, TestNG
+4)host it on a website, virtual machine, use Jenkins CI, docker, sequelize
+
+
+
+To Do Order
+1) Angular CRUD, router, databinding
+2) React redux + add state/props
+3) Get sql+java api working like project
+4) add BDD tests, testNG report
+5) swap out sql for postgres, swap java api for other api "java api tutorial"
+6) host it on a website, virtual machine, use Jenkins CI, docker, sequelize, add keycloak

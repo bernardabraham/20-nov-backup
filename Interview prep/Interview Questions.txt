@@ -1,0 +1,14 @@
+tell us about yourself
+
+
+give an example of a project you've worked on
+-to-do app
+-cv website
+
+give an example of times you've worked as a team
+-
+-
+
+what technologies have you used?
+
+what is an api and how have you implemented it

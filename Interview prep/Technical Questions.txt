@@ -1,0 +1,7 @@
+write a programme on the board that creates pascals triangle
+
+draw a relational database for a warehouse
+
+ what is object oriented programming?
+
+what is an API, DOM, JPA, AJAX, dependency injection, maven, 

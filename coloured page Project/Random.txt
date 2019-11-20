@@ -1,0 +1,8 @@
+MEAN - Mongo, Express.js, Angular, Node.js
+LAMP
+XAMPP
+
+
+React - Flux Design Pattern, sass css preprocessor, build tool Grunt, unit test Jest, Jquery library, Bootstrap CSS framework, AJAX
+
+research AJAX, Restful APi (frameworks for creating), express.js
